@@ -23,6 +23,7 @@ function countCats( matrix ) {
         count++;
       }
     }
+    
   }
   return count;
 }
